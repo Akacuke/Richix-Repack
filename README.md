@@ -2,7 +2,7 @@
 
 Ссылка "Вставить в Hydra":
 
-https://raw.githubusercontent.com/Akacuke/Richix-Repack/refs/heads/main/Richix%20Repack.json
+hydralauncher://install-source?urls=https%3A%2F%2Fraw.githubusercontent.com/Akacuke/Richix-Repack/refs/heads/main/Richix%20Repack.json
 
 ## Список игр:
 
