@@ -2,7 +2,7 @@
 
 Ссылка "Вставить в Hydra":
 
-[![Open HydraLauncher](https://img.shields.io/badge/Open-HydraLauncher-blue)](hydralauncher://install-source?urls=https%3A%2F%2Fraw.githubusercontent.com%2FKekitU%2Frutracker-hydra-links%2Fmain%2Fall_categories.json)
+hydralauncher://install-source?urls=https%3A%2F%2Fraw.githubusercontent.com%2FKekitU%2Frutracker-hydra-links%2Fmain%2Fall_categories.json
 
 
 ## Список игр:
