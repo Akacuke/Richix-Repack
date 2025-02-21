@@ -2,8 +2,8 @@
 
 Ссылка "Вставить в Hydra":
 
-[**🚀 Install Repack**](hydralauncher://install-source?urls=https%3A%2F%2Fraw.githubusercontent.com%2FAkacuke%2FRichix-Repack%2Fmain%2FRichix%2520Repack.json
-)
+[![Install Repack](https://img.shields.io/badge/Install-Repack-blue)](https://raw.githubusercontent.com/Akacuke/Richix-Repack/main/Richix%20Repack.json)
+
 
 ## Список игр:
 
