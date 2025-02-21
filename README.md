@@ -2,6 +2,8 @@
 
 Источник Для Hydra Launcher "будет пополнятся"
 
+https://raw.githubusercontent.com/Akacuke/Richix-Repack/refs/heads/main/Richix%20Repack.json
+
 ## Туториал
 
 1.Копируйте ссылку которая будет сверху
