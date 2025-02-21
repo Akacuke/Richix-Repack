@@ -1,6 +1,6 @@
-# RichixRepacks - Список игр
+# RichixRepacks - Источник для Hydra
 
-Репозиторий с источником Hydra
+Источник Для Hydra Launcher "будет пополнятся"
 
 ## Туториал
 
