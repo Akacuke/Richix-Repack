@@ -4,10 +4,220 @@
     {
       "title": "Retro Gadgets",
       "uris": [
-        "magnet:?xt=urn:btih:2129cd9ccb579edcfe6b3c8ab14d65f61f469472&dn=Retro_Gadgets_v0.1.9&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2fwassermann.online%3a6969%2fannounce&tr=udp%3a%2f%2fcutiegirl.ru%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftorrentclub.online%3a54123%2fannounce&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fengplus.ru%3a6969%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710&tr=http%3a%2f%2fretracker.local%2fannounce&tr=http%3a%2f%2fbt.t-ru.org%2fann&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f46.148.18.250%3a2710&tr=http%3a%2f%2ftracker.firebase.ws%3a5678%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710&tr=http%3a%2f%2fretracker.local%2fannounce&tr=http%3a%2f%2fbt.t-ru.org%2fann&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f46.148.18.250%3a2710&tr=http%3a%2f%2ftracker.firebase.ws%3a5678%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce"
+        "magnet:?xt=urn:btih:2129cd9ccb579edcfe6b3c8ab14d65f61f469472&dn=Retro_Gadgets_v0.1.9&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2fwassermann.online%3a6969%2fannounce&tr=udp%3a%2f%2fcutiegirl.ru%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce"
       ],
       "uploadDate": "2024-01-06T00:00:00.000Z",
       "fileSize": "300 MB"
+    },
+    {
+      "title": "Forza Horizon 5",
+      "uris": [
+        "magnet:?xt=urn:btih:bcf3a5e9f5b182adfd842945b6eaf28709b7e945&dn=Forza_Horizon_5_v1.4.0_Patch&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2025-01-05T00:00:00.000Z",
+      "fileSize": "85 GB"
+    },
+    {
+      "title": "Need for Speed Unbound",
+      "uris": [
+        "magnet:?xt=urn:btih:26ac809575e08d9926ac0e5f8b000433be3b00b7&dn=Need_for_Speed_Unbound_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-12-15T00:00:00.000Z",
+      "fileSize": "45 GB"
+    },
+    {
+      "title": "F1 2024",
+      "uris": [
+        "magnet:?xt=urn:btih:c9078f5e8d9b9a89a8c380d34d00e50efab8d110&dn=F1_2024&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2025-01-10T00:00:00.000Z",
+      "fileSize": "60 GB"
+    },
+    {
+      "title": "Dirt 5",
+      "uris": [
+        "magnet:?xt=urn:btih:99d82c4d82d3c520d48a4317c32f8c4de9c52ca7&dn=Dirt_5_v1.5&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-12-20T00:00:00.000Z",
+      "fileSize": "40 GB"
+    },
+    {
+      "title": "TrackMania",
+      "uris": [
+        "magnet:?xt=urn:btih:a60fd015f748f840f28545c46558eeb51eec9e69&dn=TrackMania_2025&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2025-02-01T00:00:00.000Z",
+      "fileSize": "35 GB"
+    },
+    {
+      "title": "Wreckfest",
+      "uris": [
+        "magnet:?xt=urn:btih:89763eae3b519173ae99872eab76a3c0efbe7318&dn=Wreckfest_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-11-30T00:00:00.000Z",
+      "fileSize": "28 GB"
+    },
+    {
+      "title": "Burnout Paradise Remastered",
+      "uris": [
+        "magnet:?xt=urn:btih:fdc39b0de0c68c9c8f13d56bfb5896f682197ecb&dn=Burnout_Paradise_Remastered_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-10-25T00:00:00.000Z",
+      "fileSize": "16 GB"
+    },
+    {
+      "title": "Crash Team Racing Nitro-Fueled",
+      "uris": [
+        "magnet:?xt=urn:btih:6d35b9c015d6d4be1980a7f13a0399d6b9c74a3d&dn=Crash_Team_Racing_Nitro-Fueled_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-11-10T00:00:00.000Z",
+      "fileSize": "25 GB"
+    },
+    {
+      "title": "Rally Championship 2025",
+      "uris": [
+        "magnet:?xt=urn:btih:1e7e383ed4ec23e38b925b52f09f518f218951b9&dn=Rally_Championship_2025&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2025-02-10T00:00:00.000Z",
+      "fileSize": "22 GB"
+    },
+    {
+      "title": "MotoGP 2024",
+      "uris": [
+        "magnet:?xt=urn:btih:fe24bb41b507689544b71be7b732307bcb2cdff0&dn=MotoGP_2024&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2025-01-15T00:00:00.000Z",
+      "fileSize": "50 GB"
+    },
+    {
+      "title": "Hot Wheels Unleashed",
+      "uris": [
+        "magnet:?xt=urn:btih:a55d4c11bb4d68781b1f9079fa528ebd8c49b200&dn=Hot_Wheels_Unleashed_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-12-05T00:00:00.000Z",
+      "fileSize": "30 GB"
+    },
+    {
+      "title": "Midnight Club 3: DUB Edition",
+      "uris": [
+        "magnet:?xt=urn:btih:91f23d237c8b72b7d041d2768f8f5b36b7cdd0f2&dn=Midnight_Club_3_DUB_Edition_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-11-01T00:00:00.000Z",
+      "fileSize": "12 GB"
+    },
+    {
+      "title": "Need for Speed Heat",
+      "uris": [
+        "magnet:?xt=urn:btih:3a9de8be21fd07e1d0b4f28502159a0f0d93dbf4&dn=Need_for_Speed_Heat_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-10-18T00:00:00.000Z",
+      "fileSize": "50 GB"
+    },
+    {
+      "title": "The Crew 2",
+      "uris": [
+        "magnet:?xt=urn:btih:b27ff5f7e3a8d8b8e9e4f815a869ba9b3e47b49c&dn=The_Crew_2_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-11-20T00:00:00.000Z",
+      "fileSize": "60 GB"
+    },
+    {
+      "title": "Need for Speed Rivals",
+      "uris": [
+        "magnet:?xt=urn:btih:7c7c2f1be7f55bbd7fe7cc89060ef9f987d640d8&dn=Need_for_Speed_Rivals_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-09-30T00:00:00.000Z",
+      "fileSize": "30 GB"
+    },
+    {
+      "title": "Rider",
+      "uris": [
+        "magnet:?xt=urn:btih:2435a0c49bc3c4bc72a0a8c68c6f5d5c5c08353f&dn=Rider_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-08-22T00:00:00.000Z",
+      "fileSize": "20 GB"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+      "uris": [
+        "magnet:?xt=urn:btih:fe4318758fa85b441e0f8b8e2b6cd50977b53f88&dn=The_Witcher_3_GOTY&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-07-10T00:00:00.000Z",
+      "fileSize": "60 GB"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "uris": [
+        "magnet:?xt=urn:btih:8e042b8d9d531e9fa34a210c7f3d5b1f41d58b7f&dn=Cyberpunk_2077_v1.2&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-07-15T00:00:00.000Z",
+      "fileSize": "75 GB"
+    },
+    {
+      "title": "Mafia: Definitive Edition",
+      "uris": [
+        "magnet:?xt=urn:btih:9df4d5e748c3a1ea02b12b527dfd94947c4bb7d2&dn=Mafia_Definitive_Edition_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-09-05T00:00:00.000Z",
+      "fileSize": "35 GB"
+    },
+    {
+      "title": "Watch Dogs Legion",
+      "uris": [
+        "magnet:?xt=urn:btih:1c56fb5faecce59a8f7728d7f2f7fe5e742af717&dn=Watch_Dogs_Legion_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-10-05T00:00:00.000Z",
+      "fileSize": "48 GB"
+    },
+    {
+      "title": "Dying Light 2",
+      "uris": [
+        "magnet:?xt=urn:btih:ec72b20765801e3c4c5e1fe7f22a1c5a2095b17d&dn=Dying_Light_2_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-10-12T00:00:00.000Z",
+      "fileSize": "55 GB"
+    },
+    {
+      "title": "Assassin's Creed Valhalla",
+      "uris": [
+        "magnet:?xt=urn:btih:195d5e54a1bfe7f7f9ff8b3ac40da0747b1f53f1&dn=Assassins_Creed_Valhalla_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-09-01T00:00:00.000Z",
+      "fileSize": "60 GB"
+    },
+    {
+      "title": "Far Cry 6",
+      "uris": [
+        "magnet:?xt=urn:btih:8032d875c05678856f941772d21abf0dbb41d9a0&dn=Far_Cry_6_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-09-20T00:00:00.000Z",
+      "fileSize": "50 GB"
+    },
+    {
+      "title": "Dragon Age: Inquisition",
+      "uris": [
+        "magnet:?xt=urn:btih:b0dbf49f8778f9dbf299f41cfd951e0f8f708fa9&dn=Dragon_Age_Inquisition_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-08-25T00:00:00.000Z",
+      "fileSize": "55 GB"
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "uris": [
+        "magnet:?xt=urn:btih:21242b5a028dcd9e8ecfe96ccdd1219e874ff3f9&dn=Horizon_Zero_Dawn_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-08-30T00:00:00.000Z",
+      "fileSize": "65 GB"
+    },
+    {
+      "title": "Skyrim Special Edition",
+      "uris": [
+        "magnet:?xt=urn:btih:8a53234cb40b0c1c4f9a0c7b657e03bcf16ee53f&dn=Skyrim_Special_Edition_v1.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"
+      ],
+      "uploadDate": "2024-07-25T00:00:00.000Z",
+      "fileSize": "50 GB"
     }
   ]
 }
+
+
