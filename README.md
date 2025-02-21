@@ -1,32 +1,21 @@
-# RichixRepacks - Источник Загрузки Hydra
+# Установка репаков через HydraLauncher
 
-Ссылка "Вставить в Hydra":
+Этот репозиторий содержит игры, которые можно установить с помощью **HydraLauncher**.
+
+## Как установить:
+
+1. Убедитесь, что у вас установлен **HydraLauncher**. Если не установлен, скачайте и установите его с официального сайта.
+   
+2. Когда вы будете готовы установить игры, просто нажмите на кнопку ниже:
 
    [![Install Repack](https://img.shields.io/badge/Install%20Repack-blue)](hydralauncher://install-source?urls=https%3A%2F%2Fraw.githubusercontent.com%2FKekitU%2Frutracker-hydra-links%2Fmain%2Fall_categories.json)
 
-## Список игр:
+3. Браузер может попросить вас подтвердить запуск программы. **Нажмите "Открыть HydraLauncher"**.
 
-1. Retro Gadgets
-2. Lossless Scaling
-3. The Crew 2
-4. Need for Speed Rivals
-5. Rider
-6. The Witcher 3: Wild Hunt - Game of the Year Edition
-7. Cyberpunk 2077
-8. Mafia: Definitive Edition
-9. Watch Dogs Legion
-10. Dying Light 2
-11. Assassin's Creed Valhalla
-12. Far Cry 6
-13. Dragon Age: Inquisition
-14. Horizon Zero Dawn
-15. Skyrim Special Edition
-16. Forza Horizon 5
-17. Need for Speed Unbound
-18. F1 2024
-19. WRC 10
-20. MotoGP 23
+4. После этого **HydraLauncher** откроется и начнется установка репаков.
 
-## Важные замечания
+## Важные примечания:
 
-- Все игры и торрент-ссылки в этом репозитории предназначены для использования в образовательных целях. Пожалуйста, убедитесь, что вы соблюдаете все авторские права и законы при использовании контента.
+- Убедитесь, что у вас установлен **HydraLauncher** и он настроен для обработки ссылок с протоколом `hydralauncher://`.
+- Если вы не видите запроса на запуск программы, возможно, вам нужно настроить обработчик схемы URI на вашем компьютере.
+- Если у вас возникают проблемы с установкой, проверьте документацию **HydraLauncher**.
